@@ -33,6 +33,7 @@ namespace BasicProgramming
         {
             Console.WriteLine("Welcome to This Application ");
             Console.WriteLine("ENjoy");
+            Console.WriteLine("Everybody");
             Console.WriteLine("Input Number From 1-4\n" +
                 "1. Body Mass Index\n" +
                 "2. Reprint Name\n" +
